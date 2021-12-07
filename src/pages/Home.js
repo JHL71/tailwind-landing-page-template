@@ -21,14 +21,14 @@ function Home() {
         {/*  Page sections */}
         <HeroHome />
         <FeaturesHome />
-        <FeaturesBlocks />
+        {/* <FeaturesBlocks />
         <Testimonials />
-        <Newsletter />
+        <Newsletter /> */}
 
       </main>
 
       {/*  Site footer */}
-      <Footer />
+      {/* <Footer /> */}
 
     </div>
   );

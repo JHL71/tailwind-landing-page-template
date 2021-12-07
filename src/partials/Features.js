@@ -44,7 +44,7 @@ function Features() {
                 <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>
               </div>
               {/* Tabs buttons */}
-              <div className="mb-8 md:mb-0">
+              {/* <div className="mb-8 md:mb-0">
                 <a
                   className={`flex items-center text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${tab !== 1 ? 'bg-white shadow-md border-gray-200 hover:shadow-lg' : 'bg-gray-200 border-transparent'}`}
                   href="#0"
@@ -90,7 +90,7 @@ function Features() {
                     </svg>
                   </div>
                 </a>
-              </div>
+              </div> */}
             </div>
 
             {/* Tabs items */}
